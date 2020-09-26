@@ -1,0 +1,41 @@
+html {
+  background: #E7E7E7;
+}
+
+html a {
+  text-decoration: none;
+}
+
+.nav-bar .right {
+  position: absolute;
+  right: 2em;
+}
+
+.nav-bar .right a {
+  margin-left: 2em;
+  color: #0e0e0e;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-bar #home {
+  margin-left: 2em;
+  color: #0e0e0e;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.page-title {
+  width: 28%;
+  margin: auto;
+}
+
+.page-title #webclub {
+  display: block;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+  font-size: 5em;
+  border-bottom: solid 8px grey;
+}
+/*# sourceMappingURL=main.css.map */
